@@ -1,11 +1,11 @@
 # Aerial imagery feature engineering using bidirectional generative adversarial networks 
-## The Pilica river region example
+## The Pilica river region in  example
 
-Maciej Adamiak (SoftwareMill, [OCRID](https://orcid.org/0000-0002-8229-9661), [LinkedIn](https://www.linkedin.com/in/maciejadamiak/))
+Maciej Adamiak (SoftwareMill, 02-791 Warsaw, Poland, [OCRID](https://orcid.org/0000-0002-8229-9661), [LinkedIn](https://www.linkedin.com/in/maciejadamiak/))
 
-Krzysztof Będkowski (Department of Geoinformation, Faculty of Geographical Sciences, University of Lodz, [ORCID](0000-0001-7945-343X))
+Krzysztof Będkowski University of Lodz, Faculty of Geographical Sciences, Institute of Urban Geography, Tourism and Geoinformation, 90-139 Łódź, Poland, [ORCID](0000-0001-7945-343X))
 
-Anna Majchrowska (Department of Physical Geography, Faculty of Geographical Sciences, University of Lodz, [OCRID](https://orcid.org/0000-0002-1611-6118)) 
+Anna Majchrowska (University of Lodz, Faculty of Geographical Sciences, Department of Physical Geography, 90-139 Łódź, Poland, [OCRID](https://orcid.org/0000-0002-1611-6118)) 
 
 ![](header.png)
 
